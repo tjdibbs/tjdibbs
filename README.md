@@ -53,21 +53,21 @@
 
 ### 📊 GitHub Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=timijames&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timijames&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tjdibbs&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdibbs&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
 </p>
 
 ---
 
 ### 🌍 Connect
 <p align="left">
-  <a href="https://linkedin.com/in/timijames" target="_blank">
+  <a href="https://linkedin.com/in/tjdibbs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/timijames" target="_blank">
+  <a href="https://twitter.com/tjdibbs" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/timijames" target="_blank">
+  <a href="https://github.com/tjdibbs" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
